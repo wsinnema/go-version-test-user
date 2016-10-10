@@ -1,0 +1,6 @@
+package: go-version-user
+import:
+- package: github.com/wsinnema/go-version-test
+  version: ^4.0.0
+  subpackages:
+  - lib

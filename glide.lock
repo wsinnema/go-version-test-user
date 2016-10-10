@@ -1,0 +1,9 @@
+hash: 96912dc1e0dd31b99b17a2f6235753775d74d82ff7c7bc79bd028fdd38f71c10
+updated: 2016-10-10T11:43:49.348213106+02:00
+imports:
+- name: github.com/wsinnema/go-version-test
+  version: 433f6a2aeb772ec27246ea1db13a77b33a56b674
+  subpackages:
+  - lib
+  - subpackage
+testImports: []
